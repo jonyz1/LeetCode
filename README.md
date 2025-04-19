@@ -54,6 +54,7 @@
 | [0118-pascals-triangle](https://github.com/jonyz1/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/jonyz1/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jonyz1/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/jonyz1/LeetCode/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/jonyz1/LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/jonyz1/LeetCode/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
