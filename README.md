@@ -25,6 +25,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jonyz1/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/jonyz1/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/jonyz1/LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/jonyz1/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/jonyz1/LeetCode/tree/master/0141-linked-list-cycle) |
 ## String
 |  |
@@ -96,6 +97,7 @@
 | [0057-insert-interval](https://github.com/jonyz1/LeetCode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/jonyz1/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/jonyz1/LeetCode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/jonyz1/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/jonyz1/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jonyz1/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/jonyz1/LeetCode/tree/master/0118-pascals-triangle) |
@@ -238,4 +240,5 @@
 | [0036-valid-sudoku](https://github.com/jonyz1/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/jonyz1/LeetCode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/jonyz1/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/jonyz1/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
