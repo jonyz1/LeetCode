@@ -47,6 +47,7 @@
 | [0049-group-anagrams](https://github.com/jonyz1/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/jonyz1/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/jonyz1/LeetCode/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/jonyz1/LeetCode/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/jonyz1/LeetCode/tree/master/0125-valid-palindrome) |
 ## Trie
 |  |
@@ -154,6 +155,7 @@
 | [0053-maximum-subarray](https://github.com/jonyz1/LeetCode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/jonyz1/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/jonyz1/LeetCode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/jonyz1/LeetCode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/jonyz1/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/jonyz1/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jonyz1/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
