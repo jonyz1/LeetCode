@@ -12,6 +12,7 @@
 | [0043-multiply-strings](https://github.com/jonyz1/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/jonyz1/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/jonyz1/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/jonyz1/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/jonyz1/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/jonyz1/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/jonyz1/LeetCode/tree/master/0069-sqrtx) |
@@ -154,6 +155,7 @@
 | [0022-generate-parentheses](https://github.com/jonyz1/LeetCode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/jonyz1/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/jonyz1/LeetCode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/jonyz1/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/jonyz1/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/jonyz1/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/jonyz1/LeetCode/tree/master/0072-edit-distance) |
@@ -250,4 +252,8 @@
 | [0048-rotate-image](https://github.com/jonyz1/LeetCode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/jonyz1/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/jonyz1/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/jonyz1/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
