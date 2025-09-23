@@ -263,4 +263,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/jonyz1/LeetCode/tree/master/0062-unique-paths) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/jonyz1/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
