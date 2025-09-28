@@ -273,5 +273,6 @@
 | [0196-delete-duplicate-emails](https://github.com/jonyz1/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/jonyz1/LeetCode/tree/master/0197-rising-temperature) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/jonyz1/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0595-big-countries](https://github.com/jonyz1/LeetCode/tree/master/0595-big-countries) |
 | [1179-game-play-analysis-i](https://github.com/jonyz1/LeetCode/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
