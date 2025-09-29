@@ -279,5 +279,6 @@
 | [0610-triangle-judgement](https://github.com/jonyz1/LeetCode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/jonyz1/LeetCode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/jonyz1/LeetCode/tree/master/0620-not-boring-movies) |
+| [0627-swap-salary](https://github.com/jonyz1/LeetCode/tree/master/0627-swap-salary) |
 | [1179-game-play-analysis-i](https://github.com/jonyz1/LeetCode/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
