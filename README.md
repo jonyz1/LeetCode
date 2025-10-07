@@ -286,4 +286,5 @@
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/jonyz1/LeetCode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/jonyz1/LeetCode/tree/master/1258-article-views-i) |
 | [1301-reformat-department-table](https://github.com/jonyz1/LeetCode/tree/master/1301-reformat-department-table) |
+| [1338-queries-quality-and-percentage](https://github.com/jonyz1/LeetCode/tree/master/1338-queries-quality-and-percentage) |
 <!---LeetCode Topics End-->
