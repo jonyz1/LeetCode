@@ -294,4 +294,5 @@
 | [1541-top-travellers](https://github.com/jonyz1/LeetCode/tree/master/1541-top-travellers) |
 | [1625-group-sold-products-by-the-date](https://github.com/jonyz1/LeetCode/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/jonyz1/LeetCode/tree/master/1670-patients-with-a-condition) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/jonyz1/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
